@@ -10,3 +10,8 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 - Ich arbeite danach am gleichen Modul weiter und versuche die Verbindung zum Pipeline herzustellen, da ich dies für den Lb benötige.
 - Wenn noch Zeit übrig beginne ich mit meiner Website, die mich präsentieren soll.
 
+02.05.2025
+
+- Ich schaue mir einige Beispiele an die meinem Projekt ähneln
+- Ich arbeite an meiner Website weiter und erstelle zuerst denn HTML code.
+- Ich erstelle danach denn CSS Code
