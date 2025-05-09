@@ -15,3 +15,9 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 - Ich schaue mir einige Beispiele an die meinem Projekt ähneln
 - Ich arbeite an meiner Website weiter und erstelle zuerst denn HTML code.
 - Ich erstelle danach denn CSS Code
+
+09.05.2025
+
+- Ich versuche mal die Website n8n aus, da sie mir interessiert.
+- Zuerst downloade ich sie über Docker und stelle ein, danach schaue ich mir Tutorials an.
+- Ich probiere ein Terminkalender via Whatsapp damit ich Sachen reinschreiben kann und dies es merkt.
