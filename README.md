@@ -21,3 +21,10 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 - Ich versuche mal die Website n8n aus, da sie mir interessiert.
 - Zuerst downloade ich sie über Docker und stelle ein, danach schaue ich mir Tutorials an.
 - Ich probiere ein Terminkalender via Whatsapp damit ich Sachen reinschreiben kann und dies es merkt.
+
+
+16.08.2025
+
+- Ich arbeite heute an dem Modul 294 weiter und lese Kapital 2 GPM durch.
+- Danach versuche ich bei n8n ein innovatives Projekt zu finden.
+- Mit Hilfe von ChatGPT versuche ich dann dies umzusetzen
