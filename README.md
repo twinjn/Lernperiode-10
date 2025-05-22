@@ -23,8 +23,13 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 - Ich probiere ein Terminkalender via Whatsapp damit ich Sachen reinschreiben kann und dies es merkt.
 
 
-16.08.2025
+16.05.2025
 
 - Ich arbeite heute an dem Modul 294 weiter und lese Kapital 2 GPM durch.
 - Danach versuche ich bei n8n ein innovatives Projekt zu finden.
 - Mit Hilfe von ChatGPT versuche ich dann dies umzusetzen
+
+23.05.2025
+
+- Ich arbeite an dem Modul 294 und arbeite an dem HZ2 weiter und lese den weiteren Kapital zu Ende.
+- Danach schaue ich mit Hilfe von ChatGPT wie ich dies auf n8n die Wetterbedingte Musikauswahl erstelle.
